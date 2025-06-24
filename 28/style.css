@@ -1,0 +1,71 @@
+body{
+    margin: 0%;
+    background-color: bisque;
+}
+#homesite{
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+}
+#homesite ul{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    text-align: center;
+}
+#homesite a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+#homesite a:hover{
+    background-color: lightgreen;
+}
+img{
+    width: 350px;
+    height: auto;
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.profile1{
+    text-align: center;
+}
+.profile2 img{
+    width: 350px;
+    height: auto;
+}
+.profile3 img{
+    width: 400px;
+    height: auto;
+}
+.profile4 img{
+    width: 500px;
+    height: auto;
+}
+.profile5 img{
+    width: 305px;
+    height: auto;
+}
+.profile7{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
