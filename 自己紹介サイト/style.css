@@ -1,0 +1,61 @@
+body{
+    margin: 0%;
+
+
+}
+#homesite{
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    width: 100%;
+}
+#homesite ul{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    text-align: center;
+}
+#homesite a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+#homesite a:hover{
+    background-color: lightgreen;
+}
+.manga{
+    display: flex;
+}
+.manga1{
+    border-bottom: 1px solid;
+    margin: 20px 0px;
+}
+.manga2{
+    border-bottom: 1px solid;
+    margin: 20px 0px;
+}
+.manga3{
+    border-bottom: 1px solid;
+    margin: 20px 0px;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.game{
+    text-align: center;
+
+}
+.game1{
+    margin-top: 10px;
+    padding: 10px;;
+    border-bottom: 1px solid;
+}
+.music1{
+    text-align: center;
+}
+.music2 img{
+    width: 500px;
+    height: auto;
+}
